@@ -13,9 +13,3 @@
 ```
 git config --global user.name «Ваше имя»
 git config --global user.email ваша "почта@example.com"
-```
-
-```Python
-while n < 0
-    n++
-```
