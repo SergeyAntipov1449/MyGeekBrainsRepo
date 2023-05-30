@@ -1,3 +1,6 @@
+![logo](1200px-Git-logo-black.svg.png)
+
+
 # Работа с Git и GitHub
 
 ## 1. Проврка наличия установленного Git
